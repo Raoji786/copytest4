@@ -1,4 +1,4 @@
-# State of JS
+# State of JS Awsome 
 
 [![Travis CI][travis-image]][travis-url]
 
